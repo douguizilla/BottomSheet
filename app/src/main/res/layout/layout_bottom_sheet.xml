@@ -14,7 +14,7 @@
         android:background="#009688"
         android:clickable="true"
         android:focusable="true"
-        app:behavior_hideable="false"
+        app:behavior_hideable="true"
         app:behavior_peekHeight="80dp"
         app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
         >
