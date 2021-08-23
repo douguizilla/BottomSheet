@@ -31,9 +31,7 @@
             style="@style/Widget.AppCompat.Button.Colored"
             android:text="Show BottomSheetDialog"/>
 
-        <include layout="@layout/layout_bottom_sheet"/>
-
-
     </LinearLayout>
+    <include layout="@layout/layout_bottom_sheet"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
