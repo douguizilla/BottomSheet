@@ -29,5 +29,10 @@ class MainActivity : AppCompatActivity() {
                 behavior.state = BottomSheetBehavior.STATE_EXPANDED
             }
         }
+        binding.btnBottomSheetDialog.setOnClickListener {
+            val dialog = BottomDialogFragment()
+            dialog.show(supportFragmentManager, "tag")
+        }
+
     }
 }
