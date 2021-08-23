@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">BottomSheet</string>
+    <string name="textView">Esse aqui é o texto</string>
+    <string name="btn_cancel_label">Cancelar</string>
+    <string name="btn_confirm_label">confirmar</string>
 </resources>
